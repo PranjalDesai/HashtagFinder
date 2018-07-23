@@ -1,0 +1,16 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <string name="app_name">Hashtag Finder</string>
+    <string name="login_title">Welcome to HashTag Finder</string>
+    <string name="login_description">Please Log-In!</string>
+    <string name="search_title">Search #HashTag</string>
+    <string name="search_description">No need to add # to the search</string>
+    <string name="search_hint_error_text">Please enter hashtag to search</string>
+    <string name="count_id_text">count_id</string>
+    <string name="hashtag_extra">hashtag</string>
+    <string name="search_hint_text">Enter hashtag to search</string>
+    <string name="search_btn">Search</string>
+    <string name="current_max">current_max</string>
+    <string name="tweet_not_found_error">Tweets not Found</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">aZDraIMpBWJvShLJ8ZDOCLzmY</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">f2aECRXXVj7EkkcIOWOKU5ElIxcFYFCu2DtOVownZYeNqAssxE</string>
+</resources>
