@@ -23,6 +23,7 @@
   
 # How To Use
   - Clone the project and run
+  - Create a new twitter dev app and insert the consumer keys in the strings.xml file
 
 [Login][screen_1] | [Search][screen_2] | [Results 2][screen_3] | [Delete][screen_4] 
 --- | --- | --- | --- 
