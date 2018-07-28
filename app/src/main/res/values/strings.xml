@@ -11,6 +11,6 @@
     <string name="search_btn">Search</string>
     <string name="current_max">current_max</string>
     <string name="tweet_not_found_error">Tweets not Found</string>
-    <string name="com.twitter.sdk.android.CONSUMER_KEY">aZDraIMpBWJvShLJ8ZDOCLzmY</string>
-    <string name="com.twitter.sdk.android.CONSUMER_SECRET">f2aECRXXVj7EkkcIOWOKU5ElIxcFYFCu2DtOVownZYeNqAssxE</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY"></string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET"></string>
 </resources>
